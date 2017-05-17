@@ -1,27 +1,27 @@
-body  {
+body {
   font-family: helvetica;
   text-align: center;
-  color:inherit;
+  color:black;
 }
 
- a.link {
-    color:white;
-  }
 
-  .banner {
-      background-image:url("../images/the-flatiron-building.png");
-
-        }
 h1 {
       font-size:70px;
       font-weight:bold;
       color: white;
     }
+
+
 ul li {
         padding: 5px 0px;
         font-size: 18px;
         color: white;
       }
+
+a, a:active, a:hover, a:visited  {
+  color: white;
+}
+
 h2 {
     font-size:32px;
 }
@@ -49,8 +49,4 @@ p {
     font-weight:bold;
     color: white;
     background-color: dimgray
-  }
-
-  .smaller {
-    font-size:10px;
   }
