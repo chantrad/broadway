@@ -1,8 +1,18 @@
-body{
-  font-family: helvetcia;
+body {
+  font-family: helvetica;
   text-align: center;
+  background-color: white;
 }
 
-  .header{
-      background-image:url("./resources/images/the-flatiron-building.png");
+  .header {
+      background-image:url("../images/the-flatiron-building.png");
+      font-size: 70px
+      font-weight:bold;
+      color: white
+      }
+
+      ul li {
+        padding: 5px 0px;
+        font-size: 18px;
+        color: white;
       }
