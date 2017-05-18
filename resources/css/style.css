@@ -10,12 +10,12 @@ h1 {
   color: white;
 }
 
-.banner-nav a {
+.banner a {
   padding: 0px 0px;
   font-size: 18px;
   text-align: center;
   color: white;
-  line-height: 35px;
+  line-height: 15px;
 }
 
 a,
