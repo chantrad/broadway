@@ -37,7 +37,7 @@ h3 {
   font-size:32px;
   font-weight:bold;
   color: white;
-  background:url("../images/the-flatiron-building.png");
+  background-image:url("../images/the-flatiron-building.png")no-repeat center center;
   }
 
 p {
