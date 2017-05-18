@@ -17,6 +17,7 @@ h1 {
   font-size: 18px;
   text-align: center;
   color: white;
+  line-height: 35px;
       }
 
 a, a:active, a:hover, a:visited  {
@@ -37,8 +38,8 @@ h3 {
   font-size:32px;
   font-weight:bold;
   color: white;
-  background-image:url("../images/the-flatiron-building.png")no-repeat center center;
-  }
+  background-image:url("../images/the-flatiron-building.png");
+    }
 
 p {
   font-size:14px;
