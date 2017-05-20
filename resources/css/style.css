@@ -34,11 +34,7 @@ h3 {
   color: black;
 }
 
-.banner {
-
-}
-
-.banner,
+.header,
 #banner2 {
   font-size: 32px;
   font-weight: bold;
